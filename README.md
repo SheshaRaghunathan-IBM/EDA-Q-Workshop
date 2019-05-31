@@ -2,6 +2,8 @@
 
 [![License](https://img.shields.io/github/license/Qiskit/qiskit-tutorials.svg?style=popout-square)](https://opensource.org/licenses/Apache-2.0)[![](https://img.shields.io/github/release/Qiskit/qiskit-tutorials.svg?style=popout-square)](https://github.com/Qiskit/qiskit-tutorials/releases)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SheshaRaghunathan-IBM/EDA-Q-Workshop/master)
+
 Welcome to the [Qiskit](https://www.qiskit.org/) tutorials!
 
 In this repository, we've put together a collection of Jupyter notebooks aimed at teaching people who want to use Qiskit for writing quantum computing programs, and executing them on one of several backends (online quantum processors, online simulators, and local simulators). The online quantum processors are the [IBM Q](https://quantumexperience.ng.bluemix.net/qx/devices) devices.
